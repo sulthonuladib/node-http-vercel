@@ -1,0 +1,12 @@
+{
+  "name": "node-http-vercel",
+  "version": "1.0.0",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js",
+    "dev": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "^37.14.0"
+  }
+}
